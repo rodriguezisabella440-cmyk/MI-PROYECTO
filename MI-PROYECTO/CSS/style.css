@@ -62,7 +62,7 @@ body{
 }
 .galeria-imagenes div {
     display: flex;
-    gap: 15;
+    gap: 15px;
     justify-content: space-between;
     margin-top: 15px;
 }
